@@ -83,17 +83,3 @@ if(isset($_GET['student'])){
 else{
     echo "ERROR!";
 }
-
-
-?>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Student grading</title>
-</head>
-<body>
-</body>
-</html>
