@@ -67,21 +67,21 @@ if(isset($_GET['student'])){
 
             }
             else{
-                echo "ERROR2!";
+                echo "ERROR!";
             }
 
         }
         else{
-            echo "ERROR3!";
+            echo "ERROR!";
         }
     }
     else{
-        echo "ERROR4!";
+        echo "ERROR!";
     }
 
 }
 else{
-    echo "ERROR5!";
+    echo "ERROR!";
 }
 
 
